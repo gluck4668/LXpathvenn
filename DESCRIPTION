@@ -1,0 +1,12 @@
+Package: LXpathvenn
+Type: Package
+Title: LXpathvenn
+Version: 2024.4.22
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: LXpathvenn can be used to analyze the jont pathways.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
